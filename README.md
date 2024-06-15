@@ -1,0 +1,4 @@
+# Loja Piton-a única que não morde!
+Cobras são, apesar de todo o preconceito que recaí sobre estes incríveis animais, verdadeiras maravilhas da natureza. Tão amigáveis quanto a morena que... ,você já sabe, e iteligentes a ponto de terem feito o senhor expulsar-nos do Jardim do Éden. Além disso, são capazes de engulir uma vaca de uma vez. Não é dificil de presumir o quão fácil é se apaixonar por estes seres, especialmentes as piton. Estas, diferentes das demais, são intigentes, versáteis, dinâmicas, e muito amigáveis. Bem, caso, por algum motivo muito específico, queria adquirir a sua própria piton, contate-nos por este link:
+
+Bem, se você não gosta de picada, é melhor escolher as pito

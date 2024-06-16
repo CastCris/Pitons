@@ -1,0 +1,35 @@
+.gatu{
+    display: flex;
+    padding: 10px;
+    position: relative;
+    /*  */
+    animation-name: mover;
+    animation-duration: 14s;
+    animation-iteration-count: infinite;
+}
+.gatu > h1{
+    font-size: 60px;
+    font-family: "Playwrite NL";
+    position: relative;
+    color: #d5a52e;
+    text-shadow: 0px 0px 26px rgb(213, 165, 46);
+    animation-name: txts;
+    animation-duration: 14s;
+    animation-iteration-count: infinite;
+}
+.gatu > div{
+    position: relative;
+    display: flex;  
+    align-items: center;
+}
+@keyframes mover {
+    0% {left: -100vw;}
+    50% {left: 100vw;}
+    100% {left: -100vw;}
+}
+@keyframes txts {
+    0% {text-shadow: none; color: #181818;}
+    20% {text-shadow: 0px 0px 26px rgb(213, 165, 46); color: #d5a52e;}
+    80% {text-shadow: 0px 0px 35px rgb(23, 95, 177); color: rgb(23, 95, 177);}
+    90% {text-shadow: none; color: #181818;}
+}

@@ -33,3 +33,90 @@
     80% {text-shadow: 0px 0px 35px rgb(23, 95, 177); color: rgb(23, 95, 177);}
     90% {text-shadow: none; color: #181818;}
 }
+/*  */
+.info{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.info>div>h2{
+    font-size: 30px;
+}
+.info>div>div{
+    display: flex;
+    justify-content: space-around;
+}
+.centro{
+    display: flex;
+    justify-content: center;
+    width: 1500px;
+}
+.history{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.history>div{
+    width: 500px;
+}
+.history>div>p{
+    text-indent: 15px;
+}
+.snakes > h3, .history>div>h3{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+.snakes>div{
+    display: flex;
+    justify-content: center;
+}
+.snakes>div>div>h4{
+    font-size: 20px;
+}
+.snakes>div>div{    
+    width: 210px;
+    padding: 15px;
+    margin: 7px;
+}
+.snakes>div>div>div{
+    overflow-y: scroll;
+    height: 200px;
+}
+.snakes>div>div>div>p{
+    text-indent: 15px;
+}
+.snakes>div>div>ul{
+    list-style: none;
+}
+/*  */
+.buttom,.dados>div{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.dados>h3{
+    font-size: 20px;
+    border-left: 10px, solid;
+    border-left-color: #d5a52e;
+}
+.dados>div>div>h3{
+    font-size:20px;
+}
+.subir{
+    background-color: #58ff64;
+}
+.descer{
+    background-color: rgb(255, 69, 69);
+}
+/*  */
+::-webkit-scrollbar{
+    width: 5px;
+}
+::-webkit-scrollbar-track{
+    box-shadow: inset 10px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #d5a52e;
+}
